@@ -1,0 +1,14 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #ffda0b, #b7ae15, #787318, #403d13, #0d0b00);
+    font-family: monospace;
+}
+
+main {
+    padding-top: 60px;
+}
