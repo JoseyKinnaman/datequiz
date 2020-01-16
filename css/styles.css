@@ -12,3 +12,19 @@ body {
 main {
     padding-top: 60px;
 }
+
+img {
+    max-width: 150px;
+    display: none;
+}
+
+
+.messy {
+    display: none;
+}
+.drink {
+    display: none;
+}
+.smart {
+    display: none;
+}
